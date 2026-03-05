@@ -1,5 +1,8 @@
 # Projeto base para aula de Acessibilidade
 
+## Atividade 1
+### Melhorar a usabilidade para quem tem baixa visão
+
 Algoritmo
 
 1 - Criar dois botões na interface:
@@ -35,3 +38,4 @@ Algoritmo
 16 - Garantir compatibilidade com tecnologias assistivas.
 
 17 - Testar a funcionalidade usando apenas o teclado (Tab + Enter/Espaço).
+.
